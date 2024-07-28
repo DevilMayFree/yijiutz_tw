@@ -464,11 +464,11 @@
 
 @font-face {
     font-family: 'Accountant-Pro';
-    src: url('wp-content/uploads/fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.eot?ym7fev');
-    src: url('wp-content/uploads/fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.eot?ym7fev#iefix') format('embedded-opentype'),
-    url('wp-content/uploads/fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.ttf?ym7fev') format('truetype'),
-    url('wp-content/uploads/fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.woff?ym7fev') format('woff'),
-    url('wp-content/uploads/fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.svg?ym7fev#Accountant-Pro') format('svg');
+    src: url('../fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.eot?ym7fev');
+    src: url('../fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.eot?ym7fev#iefix') format('embedded-opentype'),
+    url('../fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.ttf?ym7fev') format('truetype'),
+    url('../fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.woff?ym7fev') format('woff'),
+    url('../fusion-icons/Accountant-Pro-v2.0/fonts/Accountant-Pro.svg?ym7fev#Accountant-Pro') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
